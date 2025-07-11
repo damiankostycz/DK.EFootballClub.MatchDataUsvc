@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "DK.EFootballClub.MatchDataUsvc": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7105",
+      "launchBrowser": false
+    }
+  }
+}
